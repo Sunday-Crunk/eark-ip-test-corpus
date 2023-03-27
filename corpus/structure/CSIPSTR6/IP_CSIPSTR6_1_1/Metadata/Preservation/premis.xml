@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<premis xsi:schemaLocation="/schemas/premis-v2-2.xsd" version="2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="info:lc/xmlns/premis-v2">
+   <!-- Random ID for the test case -->
+  <object xsi:type="file" xmlID="c3a0ffe6-e25b-4f59-ac51-f5931c09ee81"> 
+  <objectIdentifier>
+    <objectIdentifierType>LOCAL</objectIdentifierType>
+    <objectIdentifierValue>c3a0ffe6-e25b-4f59-ac51-f5931c09ee81</objectIdentifierValue>
+  </objectIdentifier>
+</premis>
