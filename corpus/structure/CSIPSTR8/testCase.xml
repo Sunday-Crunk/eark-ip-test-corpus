@@ -15,12 +15,13 @@ XML lists -->
   <description>
     Testing this requirement necessitates a few assumptions about some specific details:
     - "Any other" metadata refers to any metadata whos path is not defined by CSIPSTR6 (Preservation) and CSIPSTR7 (Descriptive)
-    - The "seperate sub-folder" would be a sub-folder of the metadata path in the IP
+    - If there is non preservation or descriptive metadata, you could place it anywhere with an advisory if that location is not a seperate sub-folder in metadata
+    - The "seperate sub-folder" referred to in the requirement would be a sub-folder of the metadata path in the IP
     - There is no controlled vocab or convention for the title of the sub-folder
     
     Unfortunately this requirement is dependent on the definition of both "descriptive" and "preservation" metadata, neither of which have a defined schema in the specification.
     Since we cannot easily tell whether any given document is descriptive or preservation metadata, we also can't easily tell what isn't descriptive or preservation metadata
-    and as such can't positively ascertain whether the structure of "other" metadata meets or does not meet this requirement.
+    and as such can't positively ascertain whether the parameters of the "other" metadata structure does or does not meet this requirement.
     
   </description>
   <!-- List of requirments that this test case depends on in addition to the
