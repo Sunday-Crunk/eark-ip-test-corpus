@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+    <dc:title>
+        Test
+    </dc:title>
+    <dc:creator>
+        Test
+    </dc:creator>
+    <dc:subject>
+        Test
+    </dc:subject>
+    <dc:description>
+        Test
+    </dc:description>
+    <dc:publisher>
+        Test
+    </dc:publisher>
+    <dc:contributor>
+        Test
+    </dc:contributor>
+    <dc:date>
+        2020-02-22
+    </dc:date>
+    <dc:type>
+        TXT
+    </dc:type>
+    <dc:identifier>
+        URI
+    </dc:identifier>
+    <dc:source>
+        Test
+    </dc:source>
+    <dc:language>
+        ENG
+    </dc:language>
+    <dc:relation>
+        NA
+    </dc:relation>
+    <dc:coverage>
+        Test
+    </dc:coverage>
+    <dc:rights>
+        Test
+    </dc:rights>
+
+</metadata>

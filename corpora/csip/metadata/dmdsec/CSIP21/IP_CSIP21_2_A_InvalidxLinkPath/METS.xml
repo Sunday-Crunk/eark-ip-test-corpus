@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/METS/" xmlns:csip="DILCIS" OBJID="ID0001" TYPE="SIP:X" csip:CONTENTTYPESPECIFICATION="MIXED" PROFILE="http://www.eark-project.com/METS/IP.xml">
+  <metsHdr CREATEDATE="2023-02-10T14:34:00" csip:OAISPACKAGETYPE="SIP">
+    <agent ROLE="CREATOR" TYPE="OTHER" OTHERTYPE="SOFTWARE">
+      <name>E-ARK Corpus Team</name>
+      <note csip:NOTETYPE="SOFTWARE VERSION">2.0-DRAFT</note>
+    </agent>
+  </metsHdr>
+  <mets:dmdSec ID="metadata_descriptive_testDC.xml" CREATED="2023-02-10T15:20">
+	<mets:mdRef LOCTYPE="URL" MDTYPE="DC" MDTYPEVERSION="2002" xlink:type="simple" xlink:href="representations/testDC.xml" SIZE="821" CREATED="2023-02-10T15:52" CHECKSUM="3f177eaa3496d9bc74df09e2a5b45324" CHECKSUMTYPE="MD5">
+	</mets:mdRef>
+  </mets:dmdSec>
+  <structMap TYPE="physical" LABEL="Common Specification structural map">
+    <div ID="Structmap_Div_ID" LABEL="IP_CSIP21_1_A_NoxLink">
+      <div ID="Structmap_Div_ID_Metadata" LABEL="metadata">
+		<div ID="Structmap_Div_ID_Metadata_Descriptive" LABEL="descriptive"/>
+	  </div>
+      <div ID="Structmap_Div_ID_Representations" LABEL="representations">
+        <div ID="Structmap_Div_ID_Representations_Representation_1"LABEL="representation_1">
+          <div ID="Structmap_Div_ID_Data" LABEL="data"/>
+        </div>
+      </div>
+    </div>
+  </structMap>
+</mets>
